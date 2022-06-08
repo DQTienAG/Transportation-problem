@@ -1,11 +1,12 @@
 # Transportation problem
 
 input1.txt
-<pre>2  3
-25 35
-20 30 10
-3  5  7
-3  2  5</pre>
+<pre>3  3
+20 40 30
+25 30 35
+1 3 5
+5 4 2
+8 5 4</pre>
 
 output:
 <pre>Optimal solution input1.txt
